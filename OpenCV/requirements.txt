@@ -1,0 +1,4 @@
+cvzone
+pyfirmata
+opencv-python
+numpy
